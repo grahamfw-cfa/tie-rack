@@ -7,3 +7,5 @@ Tie Rack is a "just for fun" app to learn iOS programming.
 * Rene Candelier
 * Brian Chambers
 * Nate Wilson
+* Graham Wells
+
